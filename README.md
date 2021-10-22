@@ -7,26 +7,26 @@ Thomas High School 9th grade test results are not included in this anlaysis.
 
 ## District Results
 The district results are:<br />
-![district_results_image](url)
+![district_results_image](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/district_overview.PNG)
 
 ## School Results
 The school results are:
-![school_results_image](url)
+![school_results_image](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/school_summary.PNG)
 
 The schools with the highest performance are:
-![high performance school_results_image](url)
+![high performance school_results_image](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/top_schools.PNG)
 
 The schools with the lowest performance are:
-![low performance school_results_image](url)
+![low performance school_results_image](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/bottom_schools.PNG)
 
 Scores by school spending:
-![scores_by_school_spending_image](url)
+![scores_by_school_spending_image](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/scores_by_school_spending.PNG)
 
 Scores by school size:
-![scores_by_school_spending_size](url)
+![scores_by_school_spending_size](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/scores_by_school_size.PNG)
 
 Scores by school type:
-![scores_by_school_spending_type](url)
+![scores_by_school_spending_type](https://github.com/JacquelineCl/school_district_analysis/blob/a9dcd78a25e0362bad5ce1e0acd1f99b135cabe0/Resources/scores_by_school_type.PNG)
 
 
 ## School District Analysis Summary
