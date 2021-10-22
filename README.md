@@ -30,9 +30,10 @@ Scores by school type:
 
 
 ## School District Analysis Summary
-Overall, 65% of the students in the district are passing both math and reading. The percentage passing reading is approximatly 10% higher than the percentage passing math.
+Overall, 65% of the students in the district are passing both math and reading. The percentage passing reading is approximatly 10% higher than the percentage passing math. 
 
-The schools that 
+90 and 91% of students in small and medium schools are passing both math and reading, while 58% of students in large schools are passing both. 
 
-One area of opportunity is to invest in the math programs at the 5 lowest performing schools, which average 
-These results are subject to changing when the Thomas High School 9th grade test results are added.
+The district schools are all large, while the charter schools are a mix of small, medium, and large.   
+
+Future analysis could focus on the math programs for elementary through high school at charter and district schools to determine why more students are passing math in charter schools. This would allow the district schools to adopt these practices if appropriate.  
